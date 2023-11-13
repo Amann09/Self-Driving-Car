@@ -16,3 +16,5 @@ A  Self-Driving Car Steering Simulator build using Udacity Car Simulator. It is 
 
 
 The images dataset used in the project can be found [here](https://github.com/rslim087a/track).
+
+I have also used my own custom dataset for the project, created using Udacity Car Simulator.
